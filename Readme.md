@@ -7,6 +7,7 @@
   網路威脅偵測器(ThreatDetection_setup.exe)
 ## 資料庫
 -sql 檔案
+  PATH：DB\
   SharpDB.bak
 - sql 帳密
 　使用者:root
